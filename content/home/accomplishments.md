@@ -1,13 +1,13 @@
 ---
 widget: accomplishments
-active: false
+active: true
 widget_id: Teaching Experience
 headless: true
 weight: 110
 title: Teaching Experience
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
 Teaching Assistant, Master of Science in Computational Finance (MSCF) Program
 
