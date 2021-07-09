@@ -15,7 +15,7 @@ authors = ["David Zhao", "Alessandro Rinaldo", "Christopher Brookins"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = ""
