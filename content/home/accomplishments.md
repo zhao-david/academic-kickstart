@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-active: true
+active: false
 widget_id: Teaching Experience
 headless: true
 weight: 110
