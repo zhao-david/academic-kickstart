@@ -33,5 +33,5 @@ weight: 110
 title: Teaching Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
