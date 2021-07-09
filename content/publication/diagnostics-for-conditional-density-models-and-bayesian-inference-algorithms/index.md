@@ -1,6 +1,6 @@
 +++
 title = "Diagnostics for Conditional Density Models and Bayesian Inference Algorithms"
-date = 2021-06-01T00:00:00
+date = 2021-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
