@@ -4,7 +4,7 @@ date = 2021-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Niccolò Dalmasso", "David Zhao", "Rafael Izbicki", "Ann B. Lee"]
+authors = ["Niccolò Dalmasso (+)", "David Zhao (+)", "Rafael Izbicki", "Ann B. Lee"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = ["Niccolò Dalmasso", "David Zhao", "Rafael Izbicki", "Ann B. Lee"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*Submitted to JMLR*"
