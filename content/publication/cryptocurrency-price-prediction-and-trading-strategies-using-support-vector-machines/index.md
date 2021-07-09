@@ -1,6 +1,6 @@
 +++
-title: "Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines"
-date = 2019-12-01T00:00:00
+title = "Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines"
+date = 2021-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["David Zhao", "Alessandro Rinaldo", "Christopher Brookins"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv preprint"
+publication = "37th Conference on Uncertainty in Artificial Intelligence (*UAI 2021*). Spotlight Talk"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -41,9 +41,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1911.11819"
-url_code = ""
+url_pdf = "https://www.auai.org/uai2021/pdf/uai2021.683.preliminary.pdf"
+url_preprint = "https://arxiv.org/abs/2102.10473"
+url_code = "https://github.com/zhao-david/CDE-diagnostics"
 url_dataset = ""
 url_project = ""
 url_slides = ""
