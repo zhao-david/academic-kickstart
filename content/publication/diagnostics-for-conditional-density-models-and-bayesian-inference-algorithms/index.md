@@ -18,7 +18,7 @@ authors = ["David Zhao", "Niccolò Dalmasso", "Rafael Izbicki", "Ann B. Lee"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "37th Conference on Uncertainty in Artificial Intelligence (*UAI 2021*). Spotlight Talk."
+publication = "37th Conference on Uncertainty in Artificial Intelligence (*UAI 2021*). Spotlight Talk"
 publication_short = ""
 
 # Abstract and optional shortened version.
