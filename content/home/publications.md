@@ -19,3 +19,4 @@ content:
 design:
   view: 4
 ---
+Niccolo Dalmasso(\*), **David Zhao(\*)**, Rafael Izbicki, Ann B. Lee (2021). [Likelihood-Free Frequentist Inference: Bridging Classical Statistics and Machine Learning in Simulation and Uncertainty Quantification.](https://arxiv.org/abs/2107.03920) *Submitted to JMLR.*
