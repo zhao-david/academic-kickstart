@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Zhao
+title: "David Zhao"
 
 # Is this the primary user of the site?
 superuser: true
