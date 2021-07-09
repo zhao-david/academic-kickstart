@@ -19,3 +19,4 @@ content:
 design:
   view: 4
 ---
+(*) denotes Equal Contribution
