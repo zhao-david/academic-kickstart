@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Selected Papers and Talks
 headless: true
-weight: 90
+weight: 40
 title: Selected Papers and Talks
 subtitle: ""
 content:
