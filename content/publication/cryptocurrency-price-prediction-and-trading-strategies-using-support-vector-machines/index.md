@@ -1,6 +1,6 @@
 +++
 title = "Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines"
-date = 2021-05-01T00:00:00
+date = 2019-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["David Zhao", "Alessandro Rinaldo", "Christopher Brookins"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = " "
+publication = "arXiv preprint"
 publication_short = ""
 
 # Abstract and optional shortened version.
