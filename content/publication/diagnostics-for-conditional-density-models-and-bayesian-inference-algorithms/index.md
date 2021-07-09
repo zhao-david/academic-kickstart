@@ -1,5 +1,5 @@
 +++
-title = "Validating Conditional Density Models and Bayesian Inference Algorithms"
+title = "Diagnostics for Conditional Density Models and Bayesian Inference Algorithms"
 date = 2021-06-01T00:00:00
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["David Zhao", "Niccolò Dalmasso", "Rafael Izbicki", "Ann B. Lee"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at *UAI 2021*"
-publication_short = "Accepted at *UAI 2021*"
+publication = "37th Conference on Uncertainty in Artificial Intelligence (*UAI 2021*). Spotlight Talk."
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
