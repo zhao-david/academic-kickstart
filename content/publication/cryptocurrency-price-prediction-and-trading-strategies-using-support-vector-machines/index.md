@@ -18,7 +18,7 @@ authors = ["David Zhao", "Alessandro Rinaldo", "Christopher Brookins"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "arXiv preprint"
 publication_short = ""
 
 # Abstract and optional shortened version.
