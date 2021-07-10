@@ -16,7 +16,7 @@ social:
     link: https://github.com/zhao-david
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/zhao-david
+    link: https://www.linkedin.com/in/zhao-david/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=xxaXqI8AAAAJ
