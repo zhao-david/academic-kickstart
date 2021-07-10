@@ -1,5 +1,5 @@
 +++
-title = "Invited Talk: ''Validating Conditional Density Models and Posterior Estimates''"
+title = "Invited Talk 04/29/2021: ''Validating Conditional Density Models and Posterior Estimates''"
 date = 2021-04-29T00:00:00
 draft = false
 
