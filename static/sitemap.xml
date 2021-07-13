@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- created with sitemap-gen https://sitemap-gen.com/ -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://davidzhao.netlify.app/</loc>
+		<lastmod>2021-07-14T00:44:55.3724700+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://davidzhao.netlify.app/publication/likelihood-free-frequentist-inference-bridging-classical-statistics-and-machine-learning-in-simulation-and-uncertainty-quantification/</loc>
+		<lastmod>2021-07-14T00:44:55.3724700+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://davidzhao.netlify.app/publication/diagnostics-for-conditional-density-models-and-bayesian-inference-algorithms/</loc>
+		<lastmod>2021-07-14T00:44:55.3724700+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://davidzhao.netlify.app/publication/md-split-practical-local-conformal-inference-in-high-dimensions/</loc>
+		<lastmod>2021-07-14T00:44:55.3724700+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://davidzhao.netlify.app/publication/invited-talk-validating-conditional-density-models-and-posterior-estimates/</loc>
+		<lastmod>2021-07-14T00:44:55.3724700+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://davidzhao.netlify.app/publication/cryptocurrency-price-prediction-and-trading-strategies-using-support-vector-machines/</loc>
+		<lastmod>2021-07-14T00:44:55.3724700+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://davidzhao.netlify.app/publication/#2</loc>
+		<lastmod>2021-07-14T00:44:55.3724700+02:00</lastmod>
+	</url>
+</urlset>
