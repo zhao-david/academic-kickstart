@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.auai.org/uai2021/pdf/uai2021.683.preliminary.pdf"
+url_pdf = "https://www.auai.org/uai2021/pdf/uai2021.683.pdf"
 url_preprint = "https://arxiv.org/abs/2102.10473"
 url_code = "https://github.com/zhao-david/CDE-diagnostics"
 url_dataset = ""
