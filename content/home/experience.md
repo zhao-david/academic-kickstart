@@ -2,6 +2,17 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Quantitative Research Intern
+    company: Two Sigma Investments
+    company_url: https://www.twosigma.com/
+    company_logo: 
+    location: New York, NY
+    date_start: 2022-06-01
+    date_end: 2022-08-15
+    description: |-2
+        * Alpha research for equity feature forecasting
+        * Returning full-time in Summer 2023
+experience:
   - title: Quantitative Trading Intern
     company: Tower Research Capital
     company_url: https://www.tower-research.com/
