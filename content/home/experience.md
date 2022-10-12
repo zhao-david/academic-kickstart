@@ -12,7 +12,6 @@ experience:
     description: |-2
         * Alpha research for equity feature forecasting
         * Returning full-time in Summer 2023
-experience:
   - title: Quantitative Trading Intern
     company: Tower Research Capital
     company_url: https://www.tower-research.com/
