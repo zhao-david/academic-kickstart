@@ -3,10 +3,6 @@ title: David Zhao
 role: ""
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Statistical Methodology
-  - Machine Learning
-  - Applied Quantitative Research
 social:
   - icon: envelope
     icon_pack: fas
