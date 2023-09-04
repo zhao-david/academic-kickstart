@@ -28,7 +28,7 @@ education:
       year: 2023
     - course: M.Sc. in Statistics
       institution: ETH Zurich
-      year: 2016
+      year: 2017
     - course: A.B. in Applied Mathematics
       institution: Harvard University
       year: 2013
