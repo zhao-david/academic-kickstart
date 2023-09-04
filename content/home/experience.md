@@ -2,6 +2,13 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Quantitative Researcher
+    company: Two Sigma Investments
+    company_url: https://www.twosigma.com/
+    company_logo: 
+    location: New York, NY
+    date_start: 2023-09-05
+    date_end: Present
   - title: Quantitative Research Intern
     company: Two Sigma Investments
     company_url: https://www.twosigma.com/
