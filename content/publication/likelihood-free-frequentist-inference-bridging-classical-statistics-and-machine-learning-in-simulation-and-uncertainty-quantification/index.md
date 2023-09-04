@@ -1,6 +1,6 @@
 +++
 title = "Likelihood-Free Frequentist Inference: Bridging Classical Statistics and Machine Learning in Simulation and Uncertainty Quantification"
-date = 2021-07-02T00:00:00
+date = 2021-06-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Niccolò Dalmasso (+)", "David Zhao (+)", "Rafael Izbicki", "Ann B. 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Submitted to JMLR*"
+publication = "arXiv preprint"
 publication_short = ""
 
 # Abstract and optional shortened version.
