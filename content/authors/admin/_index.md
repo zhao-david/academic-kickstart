@@ -38,4 +38,4 @@ highlight_name: false
 ---
 I am a quantitative researcher at Two Sigma.
 
-I recently graduated with a Ph.D. in Statistics and Machine Learning from Carnegie Mellon University, where I worked on uncertainty quantification and likelihood-free inference with applications to astronomy and physics. Prior to CMU, I obtained an M.Sc. in Statistics from ETH Zurich and an A.B. in Applied Mathematics from Harvard University. I also previously worked as an options trader at Optiver and a research analyst at AQR Capital.
+I recently graduated with a Ph.D. in Statistics and Machine Learning from Carnegie Mellon University, where my research focused on uncertainty quantification with applications to astronomy. Prior to CMU, I worked as an options trader at Optiver and a research analyst at AQR Capital. I also hold an M.Sc. in Statistics from ETH Zurich and an A.B. in Applied Mathematics from Harvard University. 
