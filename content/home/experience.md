@@ -10,7 +10,7 @@ experience:
     date_start: 2023-09-05
     date_end:
     description: |-2
-        * Alpha research for equity feature forecasting
+        * Alpha research
   - title: Quantitative Research Intern
     company: Two Sigma Investments
     company_url: https://www.twosigma.com/
