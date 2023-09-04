@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Selected Papers and Talks
+widget_id: Selected Papers
 headless: true
 weight: 40
-title: Selected Papers and Talks
+title: Selected Papers
 subtitle: ""
 content:
   page_type: publication
@@ -19,6 +19,4 @@ content:
 design:
   view: 4
 ---
-Last updated Jan 2022
-
 (+) denotes Equal Contribution
