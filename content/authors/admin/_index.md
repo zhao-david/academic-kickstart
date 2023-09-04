@@ -36,6 +36,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a 5th year Ph.D. student in the joint program in [Statistics](http://www.stat.cmu.edu/) and [Machine Learning](https://www.ml.cmu.edu/) at Carnegie Mellon University. My research focuses on developing new methods to tackle challenging real-world problems in the physical sciences. In particular, I work on uncertainty quantification and likelihood-free inference, with applications to astronomy and physics. I am fortunate to be advised by Professor [Ann B. Lee](http://www.stat.cmu.edu/~annlee/).
+I am a quantitative researcher at Two Sigma.
 
-Prior to CMU, I obtained an M.Sc. in Statistics from ETH Zurich and an A.B. in Applied Mathematics from Harvard University. I also have 3+ years of work experience in the quantitative finance industry, in both investment research and proprietary trading.
+I recently graduated with a Ph.D. in Statistics and Machine Learning from Carnegie Mellon University, where I worked on uncertainty quantification and likelihood-free inference with applications to astronomy and physics. Prior to CMU, I obtained an M.Sc. in Statistics from ETH Zurich and an A.B. in Applied Mathematics from Harvard University. I also previously worked as an options trader at Optiver and a research analyst at AQR Capital.
